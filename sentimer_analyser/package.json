@@ -1,0 +1,25 @@
+{
+  "name": "sentimer-analyser",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon --exec npx babel-node  ./bin/www"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.0",
+    "@babel/node": "^7.20.7",
+    "@babel/preset-env": "^7.20.2",
+    "babel-node": "0.0.1-security",
+    "apos-to-lex-form": "^1.0.5",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "joi": "^17.8.3",
+    "express": "^4.16.4",
+    "morgan": "~1.9.1",
+    "natural": "^6.2.0",
+    "nodemon": "^2.0.21",
+    "spelling-corrector": "^3.0.0",
+    "stopword": "^2.0.7"
+  }
+}
