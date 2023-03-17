@@ -31,3 +31,5 @@ a tool to analyze the sentiment of a piece of text using Node.js and Natural Lan
  * [twitter](https://twitter.com/tuyizereanasta3)
  * [github](https://github.com/TuyizeeAnastase/)
 
+## Demo image
+* ![demo](https://res.cloudinary.com/duhetxdbs/image/upload/v1679041047/sentimer_tuq7zr.png)
